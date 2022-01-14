@@ -5,5 +5,5 @@
     align-items: center;
     overflow: hidden;
     position: relative;
-    z-index: -2;
+    z-index: 0;
   }
